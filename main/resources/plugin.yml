@@ -1,0 +1,9 @@
+name: HeartChase
+version: '${project.version}'
+main: io.github.channy07.heartchase.Main
+api-version: 1.19
+authors: [ channy7123 ]
+description: Minecraft Plugin
+
+commands:
+  HC:
